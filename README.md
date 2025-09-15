@@ -1,4 +1,7 @@
 # DNS Resolver Client-Server Project (Task-1)
+## Team Members 
+Ayush Sabane (23110054) 
+Ankit Kumar (23110030) 
 
 ## Overview
 This project implements a **custom DNS resolution system** entirely in a single Google Colab notebook. The notebook handles both **client-side parsing of DNS queries from a PCAP file** and **server-side DNS resolution** with custom headers.  
